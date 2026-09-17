@@ -1,0 +1,127 @@
+[2026-09-16 11:55:15] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-16 11:55:15] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-16 11:55:15] Arka plan denetim döngüsü aktif hale geldi.
+[2026-09-16 11:55:15] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-16 11:55:15] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-16 11:55:15] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-16 11:55:15] MenuManager başlatılıyor...
+[2026-09-16 11:55:15] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-16 11:55:16] MenuManager arayüzü başarıyla oluşturuldu.
+[2026-09-16 11:55:21] Kullanıcı arayüz üzerinden manuel kilit testi başlattı.
+[2026-09-16 11:55:21] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 11:55:28] Şifre doğru girildi ([9032]). Kilit 40 dakika süreyle açık bırakılıyor.
+[2026-09-16 11:55:33] Kullanıcı log bilgi ekranını açtı.
+[2026-09-16 11:56:04] Kullanıcı arayüz üzerinden manuel kilit testi başlattı.
+[2026-09-16 11:56:04] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 11:56:06] Kullanıcı 'Siteyi Kapat' butonuna tıkladı. Kilit ekranı kapatılıyor.
+[2026-09-16 11:57:50] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-16 11:57:50] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-16 11:57:50] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-16 11:57:50] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-16 11:57:50] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-16 11:57:50] MenuManager başlatılıyor...
+[2026-09-16 11:57:50] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-16 11:57:51] MenuManager arayüzü başarıyla oluşturuldu.
+[2026-09-16 11:58:22] Kullanıcı arayüz üzerinden manuel kilit testi başlattı.
+[2026-09-16 11:58:22] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 11:58:27] Şifre doğru girildi ([9032]). Kilit 40 dakika süreyle açık bırakılıyor.
+[2026-09-16 11:58:35] LIWILOCK sistemi kapatılıyor.
+[2026-09-16 12:10:54] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-16 12:10:54] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-16 12:10:54] Arka plan denetim döngüsü aktif hale geldi.
+[2026-09-16 12:10:54] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-16 12:10:54] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-16 12:10:54] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-16 12:10:54] MenuManager başlatılıyor...
+[2026-09-16 12:10:54] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-16 12:10:54] ReaderService (reader.py) başarıyla başlatıldı.
+[2026-09-16 12:10:54] Web tarama ve okuma döngüsü aktif hale geldi.
+[2026-09-16 12:10:54] ReaderService arka plan taraması başlatıldı.
+[2026-09-16 12:10:54] ReaderService arayüze başarıyla bağlandı ve tarama döngüsü başlatıldı.
+[2026-09-16 12:10:54] MenuManager arayüzü ve tarama servisi başarıyla oluşturuldu.
+[2026-09-16 12:11:19] Kullanıcı arayüz üzerinden manuel kilit testi başlattı.
+[2026-09-16 12:11:19] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 12:11:23] Şifre doğru girildi ([9032]). Kilit 40 dakika süreyle açık bırakılıyor.
+[2026-09-16 12:12:46] Kullanıcı log bilgi ekranını açtı.
+[2026-09-16 12:12:49] LIWILOCK sistemi kapatılıyor.
+[2026-09-16 12:14:52] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-16 12:14:52] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-16 12:14:52] Arka plan denetim döngüsü aktif hale geldi.
+[2026-09-16 12:14:52] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-16 12:14:52] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-16 12:14:52] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-16 12:14:52] MenuManager başlatılıyor...
+[2026-09-16 12:14:52] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-16 12:14:53] ReaderService (reader.py) başarıyla başlatıldı.
+[2026-09-16 12:14:53] Web tarama ve okuma döngüsü aktif hale geldi.
+[2026-09-16 12:14:53] ReaderService arka plan taraması başlatıldı.
+[2026-09-16 12:14:53] ReaderService arayüze başarıyla bağlandı ve tarama döngüsü başlatıldı.
+[2026-09-16 12:14:53] MenuManager arayüzü ve tarama servisi başarıyla oluşturuldu.
+[2026-09-16 12:15:00] UYARI: Yasaklı site tespit edildi! Eşleşen: youtube.com (Pencere: youtube - google'da ara - google chrome)
+[2026-09-16 12:15:00] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 12:15:05] UYARI: Yasaklı site tespit edildi! Eşleşen: youtube.com (Pencere: youtube - google chrome)
+[2026-09-16 12:15:05] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 12:15:15] Kullanıcı 'Siteyi Kapat' butonuna tıkladı. Kilit ekranı kapatılıyor.
+[2026-09-16 12:15:15] UYARI: Yasaklı site tespit edildi! Eşleşen: youtube.com (Pencere: youtube - google chrome)
+[2026-09-16 12:15:15] Kilit ekranı (LockScreen) aktifleşti ve ekrana getirildi.
+[2026-09-16 12:15:16] Kullanıcı 'Siteyi Kapat' butonuna tıkladı. Kilit ekranı kapatılıyor.
+[2026-09-16 12:15:19] Kullanıcı 'Siteyi Kapat' butonuna tıkladı. Kilit ekranı kapatılıyor.
+[2026-09-16 12:15:22] LIWILOCK sistemi kapatılıyor.
+[2026-09-16 12:17:57] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-16 12:17:57] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-16 12:17:57] Arka plan denetim döngüsü aktif hale geldi.
+[2026-09-16 12:17:57] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-16 12:17:57] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-16 12:17:57] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-16 12:17:57] MenuManager başlatılıyor...
+[2026-09-16 12:17:58] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-16 12:17:58] ReaderService başlatıldı.
+[2026-09-16 12:17:58] ReaderService arayüze başarıyla bağlandı ve tarama döngüsü başlatıldı.
+[2026-09-16 12:17:58] MenuManager arayüzü ve tarama servisi başarıyla oluşturuldu.
+[2026-09-16 12:18:06] Yasaklı site yakalandı: youtube.com (youtube - google'da ara - google chrome)
+[2026-09-16 12:18:06] Kilit ekranı tetiklendi ve açılıyor.
+[2026-09-16 12:18:06] Yasaklı tarayıcı sekmesi/penceresi kapatıldı.
+[2026-09-16 12:18:24] Doğru şifre girildi, kilit kaldırılıyor.
+[2026-09-16 12:18:50] LIWILOCK sistemi kapatılıyor.
+[2026-09-16 12:19:49] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-16 12:19:49] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-16 12:19:49] Arka plan denetim döngüsü aktif hale geldi.
+[2026-09-16 12:19:49] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-16 12:19:49] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-16 12:19:49] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-16 12:19:49] MenuManager başlatılıyor...
+[2026-09-16 12:19:49] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-16 12:19:50] ReaderService başlatıldı.
+[2026-09-16 12:19:50] ReaderService arayüze başarıyla bağlandı ve tarama döngüsü başlatıldı.
+[2026-09-16 12:19:50] MenuManager arayüzü ve tarama servisi başarıyla oluşturuldu.
+[2026-09-16 12:19:58] Yasaklı site yakalandı: youtube.com (youtube - google'da ara - google chrome)
+[2026-09-16 12:19:58] Kilit ekranı tetiklendi ve açılıyor.
+[2026-09-16 12:19:58] Yasaklı tarayıcı sekmesi/penceresi kapatıldı.
+[2026-09-16 12:20:05] Doğru şifre girildi, kilit kaldırılıyor.
+[2026-09-16 12:20:26] Yasaklı site yakalandı: youtube.com (youtube - google'da ara - google chrome)
+[2026-09-16 12:20:26] Kilit ekranı tetiklendi ve açılıyor.
+[2026-09-16 12:20:26] Yasaklı tarayıcı sekmesi/penceresi kapatıldı.
+[2026-09-16 12:20:29] Doğru şifre girildi, kilit kaldırılıyor.
+[2026-09-16 12:20:38] LIWILOCK sistemi kapatılıyor.
+[2026-09-17 08:12:01] main.py çalıştırıldı. Sistem başlatma süreci başladı.
+[2026-09-17 08:12:01] SystemService (repetitiveness.py) başlatıldı ve servise hazır.
+[2026-09-17 08:12:01] Sistem Servisi arka planda çalışmaya başladı (Daemon Thread).
+[2026-09-17 08:12:01] Arka plan sistem servisi başarıyla tetiklendi.
+[2026-09-17 08:12:01] MenuManager yükleniyor, arayüz başlatılıyor...
+[2026-09-17 08:12:01] MenuManager başlatılıyor...
+[2026-09-17 08:12:01] Algılanan İşletim Sistemi: Windows. Pardus özel modu atlandı, sistem sorunsuz devam ediyor.
+[2026-09-17 08:12:08] ReaderService başlatıldı.
+[2026-09-17 08:12:08] ReaderService arayüze başarıyla bağlandı ve tarama döngüsü başlatıldı.
+[2026-09-17 08:12:09] MenuManager arayüzü ve tarama servisi başarıyla oluşturuldu.
+[2026-09-17 08:12:30] Yasaklı site yakalandı: youtube.com (youtube - google'da ara - google chrome)
+[2026-09-17 08:12:30] Kilit ekranı tetiklendi ve açılıyor.
+[2026-09-17 08:12:30] Yasaklı tarayıcı sekmesi/penceresi kapatıldı.
+[2026-09-17 08:12:40] Doğru şifre girildi, kilit kaldırılıyor.
+[2026-09-17 08:13:01] Yasaklı site yakalandı: tiktok.com (tiktok - google'da ara - google chrome)
+[2026-09-17 08:13:01] Kilit ekranı tetiklendi ve açılıyor.
+[2026-09-17 08:13:01] Yasaklı tarayıcı sekmesi/penceresi kapatıldı.
+[2026-09-17 08:13:09] Doğru şifre girildi, kilit kaldırılıyor.
+[2026-09-17 08:14:50] Kullanıcı arayüz üzerinden manuel kilit testi başlattı.
+[2026-09-17 08:14:50] Kilit ekranı tetiklendi ve açılıyor.
+[2026-09-17 08:14:50] Yasaklı tarayıcı sekmesi/penceresi kapatıldı.
+[2026-09-17 08:14:50] LIWILOCK sistemi kapatılıyor.
